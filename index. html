@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Приклад семантичної верстки</title>
+</head>
+<body>
+<header>
+    <nav>
+    </nav>
+</header>
+<div class="container">
+    <aside>
+    </aside>
+    <main>
+        <section>
+        </section>
+        <article>
+            <h2>Верхній одяг</h2>
+            <p>Куртки, пальта, вітрівки, світери, вишиванки, різні футболки, верхня білизна, топи, майки і тд.</p>
+        </article>
+        <article>
+            <h2>Нижній одяг</h2>
+            <p>Штани, брюки, шорти, спідниці, джинси, нижня білизна, і тд. </p>
+        </article>
+    </main>
+</div>
+<footer>
+</footer>
+</body>
+</html>
